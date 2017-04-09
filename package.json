@@ -35,7 +35,7 @@
     "prepublish": "./node_modules/.bin/gulp dist"
   },
   "dependencies": {
-    "postcss": "^5.0.21"
+    "postcss": "5.0.21"
   },
   "devDependencies": {
     "babel-core": "^6.7.2",
@@ -57,7 +57,7 @@
     "gulp-util": "^3.0.7",
     "less": "^2.6.1",
     "mocha": "^2.4.5",
-    "postcss-parser-tests": "^5.0.6",
+    "postcss-parser-tests": "5.0.6",
     "run-sequence": "^1.1.5",
     "through": "^2.3.8"
   }
